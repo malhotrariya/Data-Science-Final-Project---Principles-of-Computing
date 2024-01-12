@@ -1,2 +1,2 @@
-# Data-Science-Final-Project---Principles-of-Computing
-DNA Protein Sequencing
+# Data-Science-Final-Project
+## DNA Protein Sequencing
